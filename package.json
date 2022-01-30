@@ -1,0 +1,37 @@
+{
+    "name": "dfs-space",
+    "displayName": "DFS - Space",
+    "description": "My own person theme that I use. Feel free to download if you enjoy it.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "publisher": "DanFrmSpace",
+    "author": {
+        "name": "DanFrmSpace"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/n4n-0/DFS-Dark-Theme.git"
+    },
+    "keywords": [
+        "theme",
+        "vscode",
+        "danfrmspace",
+        "dark"
+    ],
+    "icon": "logo.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Space - Dark Default",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Space - Dark Default-color-theme.json"
+            }
+        ]
+    }
+}
