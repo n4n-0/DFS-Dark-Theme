@@ -2,7 +2,7 @@
     "name": "dfs-space",
     "displayName": "DFS - Space",
     "description": "My own person theme that I use. Feel free to download if you enjoy it.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.63.0"
     },
